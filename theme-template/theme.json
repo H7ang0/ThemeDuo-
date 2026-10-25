@@ -1,0 +1,40 @@
+{
+  "icons": {
+    "like_heart": "icons/like_heart.png",
+    "like_heart_white": "icons/like_heart_white.png",
+    "like_spread": "icons/like_spread.png",
+    "favorite_off": "icons/favorite_off.png",
+    "favorite_on": "icons/favorite_on.png",
+    "favorite_spread": "icons/favorite_spread.png",
+    "follow_plus": "icons/follow_plus.png",
+    "follow_tick": "icons/follow_tick.png",
+    "search_lens": "icons/search_lens.png",
+    "search_clear": "icons/search_clear.png",
+    "like_before": "icons/like_before.png",
+    "like_after": "icons/like_after.png",
+    "unfavorite": "icons/unfavorite.png",
+    "favorite": "icons/favorite.png",
+    "comment": "icons/comment.png",
+    "share": "icons/share.png",
+    "plus_button_icon": "icons/plus_button_icon.png",
+    "search": "icons/search.png",
+    "sidebar": "icons/sidebar.png",
+    "more": "icons/more.png",
+    "add_friend": "icons/add_friend.png",
+    "comment_voice_icon": "icons/comment_voice_icon.png",
+    "app_background": "icons/app_background.png",
+    "tab_home_normal": "icons/tab_home_normal.png",
+    "tab_home_selected": "icons/tab_home_selected.png",
+    "tab_friends_normal": "icons/tab_friends_normal.png",
+    "tab_friends_selected": "icons/tab_friends_selected.png",
+    "tab_messages_normal": "icons/tab_messages_normal.png",
+    "tab_messages_selected": "icons/tab_messages_selected.png",
+    "tab_me_normal": "icons/tab_me_normal.png",
+    "tab_me_selected": "icons/tab_me_selected.png"
+  },
+  "backgrounds": {
+    "message": "backgrounds/background_message.png",
+    "profile": "backgrounds/background_profile.png",
+    "other": "backgrounds/background_other.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": "0.12.0",
+  "count": 34,
+  "fixed_slots": 10,
+  "bottom_slots": 8,
+  "resource_aliases": 13,
+  "backgrounds": 3,
+  "device_validated": false,
+  "distribution": "backend upload then authorized download; local import UI removed",
+  "sha256": {
+    "index.html": "74a82853804e2c3176e929a40aa25598bc578900b9478046d98ab45989a62032",
+    "主题制作教程.md": "a1f5386f8cc45e0775bc9c74d48ead5c1cd6b517f851dddce87ccc394badff61",
+    "PNG逐项对照.csv": "f279783eef499fd5ce07835f1f4a36696d44f398106ab4f7e073a0e82a3adbdb",
+    "PNG对照.json": "596aaff54d4a0ee105a720d1bad26d19d1dc5a790165a91ce31d0736b95eca31",
+    "ThemeDuo-34PNG-模板.theme": "82bb193166bca5b8f16bd2217497c8b031e80a0242f75f4ae102fd023a915321"
+  }
+}

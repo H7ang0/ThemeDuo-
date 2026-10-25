@@ -1,0 +1,12 @@
+ThemeDuo 0.12.0 校验
+PASS: 34 PNG 条目与源码对应：10 原固定 + 8 底栏固定 + 13 资源名映射 + 3 背景。
+PASS: PNG 画布、alpha 和解码；实际解包器解析 31 图标与 3 背景路径。
+PASS: 教程底栏筛选精确得到 8 个普通态／选中态文件名。
+PASS: 345 项本机检查，包含 38 项底栏模型检查。
+PASS: 90 个宿主 Hook 均有头文件声明，支持属性另有声明与 ABI 检查。
+PASS: arm64 编译、签名、打包；Douyin-only filter；底栏函数已链接；无未解析 TD/AXR 符号。
+PASS: 所有编译源文件早于最终包；无系统 UIView/UIButton/UIImage/UIViewController 全局 Hook。
+PASS: 面板与预览无本地主题导入入口及授权用途文字；最底部为 ©小桃子 2026。
+PASS: 预览四项选中态、悬浮依赖、关闭全屏联动及版权页脚。
+NOT VALIDATED: iPhone 启动、PNG 实际命中、全屏视频、角标、旋转、长按和悬浮命中区。
+本次未执行原插件 .deb，未发起 UID/兑换码授权或上传主题。
